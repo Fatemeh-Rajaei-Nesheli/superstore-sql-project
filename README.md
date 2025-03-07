@@ -7,10 +7,15 @@ The project is structured into different SQL files for **database schema creatio
 
 ## Project Structure
 **Superstore-SQL-Project**
+
 `README.md`  *(Project documentation)*
+
 `database_schema.sql`  *(SQL script to create database tables)*
+
 `data_insertion.sql`  *(SQL script to insert sample data into tables)*
+
 `queries.sql`  *(Collection of SQL queries for data analysis)*
+
 `output_screenshots`  *(Folder containing query results screenshots)*
 
 ## Data Source
