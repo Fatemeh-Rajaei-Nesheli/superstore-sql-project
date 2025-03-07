@@ -90,7 +90,7 @@ We classify customers based on their purchasing behavior and analyze their sales
 ## Conclusion
 This project showcases **real-world SQL analysis** on a retail dataset, covering a wide range of business insights. It helps in understanding customer behavior, optimizing sales strategies, and improving business decision-making through SQL queries.
 
-Feel free to explore the queries, modify them, or use them for further analysis. ??
+Feel free to explore the queries, modify them, or use them for further analysis.
 
 ## Author
 **Fatemeh Rajaei Nesheli**
