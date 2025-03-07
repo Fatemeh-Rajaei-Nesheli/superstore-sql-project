@@ -6,12 +6,12 @@ This project is a structured SQL analysis of the **United States Superstore Sale
 The project is structured into different SQL files for **database schema creation, data insertion, and query execution**. The queries are designed to uncover meaningful insights and can be used for reporting and business intelligence purposes.
 
 ## Project Structure
-?? **Superstore-SQL-Project**
-??? ?? `README.md`  *(Project documentation)*
-??? ?? `database_schema.sql`  *(SQL script to create database tables)*
-??? ?? `data_insertion.sql`  *(SQL script to insert sample data into tables)*
-??? ?? `queries.sql`  *(Collection of SQL queries for data analysis)*
-??? ?? `output_screenshots`  *(Folder containing query results screenshots)*
+**Superstore-SQL-Project**
+`README.md`  *(Project documentation)*
+`database_schema.sql`  *(SQL script to create database tables)*
+`data_insertion.sql`  *(SQL script to insert sample data into tables)*
+`queries.sql`  *(Collection of SQL queries for data analysis)*
+`output_screenshots`  *(Folder containing query results screenshots)*
 
 ## Data Source
 The dataset used in this project comes from **[Kaggle: United State Superstore Sales](https://www.kaggle.com/datasets/abiodunonadeji/united-state-superstore-sales)**. It contains sales records, customer details, product categories, and shipping information, making it an excellent dataset for SQL-based analysis.
